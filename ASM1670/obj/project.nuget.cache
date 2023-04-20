@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TKBS0I04p657T++/0GwrC8c+K7FxVqgoFsr/CDRywd/T//G9mHazTfdoy+Opw/nFy/6ezEaeD109qn+4t2XVew==",
+  "dgSpecHash": "3AjriXEZ4yD8j/tLX0+QT+KUMqN8NU54IMayA2UV0CHVbB0ED1OTtxskpBIgBTA7VYNBNgsS7eRF7xdwfP9cGg==",
   "success": true,
-  "projectFilePath": "D:\\1670\\ASM1670\\ASM1670\\ASM1670.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\1670\\AppDev\\ASM1670\\ASM1670.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kient\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kient\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kient\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kient\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
